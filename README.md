@@ -8,7 +8,7 @@ It can download the full index website or just a particular folder
 
 2. Run first block
 
-3. Replace the values of the following strings: _goindex_url, _gdfolderid (Optional: http_auth, goindex_password)
+3. Replace the values of the following strings in the 2nd block: _goindex_url, _gdfolderid (Optional: http_auth, goindex_password)
 
 4. Run 2nd block
 
