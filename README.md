@@ -10,6 +10,14 @@ It can download the full index website or just a particular folder
 
 3. Replace the values of the following strings in the 2nd block: _goindex_url, _gdfolderid (Optional: http_auth, goindex_password)
 
+_goindex_url -> The URL of the GoIndex Folder
+
+_gdfolderid: folder ID of the google drive folder
+
+http_auth: Username and Password if http auth needed
+
+goindex_password: Password for GoIndex if needed
+
 4. Run 2nd block
 
 5. It will ask you to login with your Google Account -> Click the link -> Copy and Paste the Authorization Code and press Enter
