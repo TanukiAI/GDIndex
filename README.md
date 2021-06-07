@@ -12,7 +12,9 @@ It can download the full index website or just a particular folder
 
 4. Run 2nd block
 
-5. Press F12 -> Go to Console Tab -> Paste the following code -> Press Enter:
+5. It will ask you to login with your Google Account -> Click the link -> Copy and Paste the Authorization Code and press Enter
+
+6. Press F12 -> Go to Console Tab -> Paste the following code -> Press Enter:
 ```js
 function ClickConnect(){
     console.log("Clicked on connect button"); 
