@@ -10,7 +10,7 @@ It can download the full index website or just a particular folder
 
 3. Replace the values of the following strings in the 2nd block: _goindex_url, _gdfolderid (Optional: http_auth, goindex_password)
 
-_goindex_url -> The URL of the GoIndex Folder
+_goindex_url: The URL of the GoIndex Folder
 
 _gdfolderid: folder ID of the google drive folder
 
